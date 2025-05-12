@@ -1,0 +1,1 @@
+scp -i /home/shreyas/.ssh/raorane.pem ubuntu@52.0.16.89:/home/ubuntu/IaKNN/* .
